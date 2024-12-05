@@ -1,4 +1,4 @@
-package com.atlys.presentation
+package com.atlys.presentation.details
 
 import com.atlys.data.MovieDetails
 

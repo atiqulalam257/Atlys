@@ -1,8 +1,7 @@
-package com.atlys.presentation
+package com.atlys.presentation.details
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.atlys.data.repositories.MovieRepositoryImpl
 import com.atlys.domain.usecase.MovieDetailsUseCase
 import com.atlys.utils.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel

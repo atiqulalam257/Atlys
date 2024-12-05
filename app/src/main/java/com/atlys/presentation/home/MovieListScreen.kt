@@ -1,4 +1,4 @@
-package com.atlys.presentation
+package com.atlys.presentation.home
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.layout.Box

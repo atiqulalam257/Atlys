@@ -1,4 +1,4 @@
-package com.atlys.presentation
+package com.atlys.presentation.details
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
